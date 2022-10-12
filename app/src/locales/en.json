@@ -1,0 +1,53 @@
+{
+  "navigation": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "techs": "Techs",
+    "contacts": "Contacts",
+    "resume": "Resume"
+  },
+  "home": {
+    "greatings": "Hi, my name is",
+    "pitch": "Since my childhood I've been passionate about software development and IT, I fell in love with these disciplines which I would like to orient myself professionally. My constant desire for growth, with the skills acquired during my experiences in multiple European countries, and my tenacity, make me a person today experienced and determined to achieve his goals.",
+    "button": "Check out my projects",
+    "position": "Frontend Developer"
+  },
+  "portfolio": {
+    "showDetails": "Show details",
+    "closeDetails": "Close details",
+    "months": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "functionalities": "Functionalities",
+    "portfolio2Descr": "Personal Portfolio - Responsive Design",
+    "ecommerce2Descr": "E-commerce website - Completely Mocked Customer Experience - Responsive Design",
+    "adventDescr": "Collection of 24 Coding Challenges - Responsive Design",
+    "socialDescr": "Social Network - Purely Frontend - Partially Mocked Customer Experience - Responsive Design",
+    "portfolioDescr": "Personal Portfolio - Responsive Design",
+    "moviesDescr": "Movie Streaming website - Purely Frontend - Responsive Design",
+    "ecommerceDescr": "E-commerce website - Purely Frontend - Responsive Design",
+    "htmlLayoutDescr": "Personal CV in HTML-email format - Responsive Design",
+    "tooltipDescr": "A tool tip plugin with specific conditions and optional tasks - Responsive Design",
+    "squareDescr": "Square following mouse with extra features",
+    "technologies": "Technologies"
+  },
+  "contacts": {
+    "header1": "I am open to work!",
+    "header2": "Feel free to contact me."
+  },
+  "resume": {
+    "header": "Download my cv in your preferred language",
+    "download": "download"
+  }
+}

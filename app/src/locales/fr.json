@@ -1,0 +1,53 @@
+{
+  "navigation": {
+    "home": "Acceuil",
+    "portfolio": "Portfeuille",
+    "techs": "Techs",
+    "contacts": "Contacts",
+    "resume": "Résumé"
+  },
+  "home": {
+    "greatings": "Bonjour, mon prénom est",
+    "pitch": "Toujours passionné par le développement de logiciels et l’informatique, je suis tombé amoureux de ces disciplines vers lesquelles je souhaiterais m’orienter professionnellement. Mon constant désir de croissance, avec les compétences acquises au cours de mes expériences dans plusieurs pays européens, font de moi aujourd’hui une personne expérimenté et déterminé pour atteindre les objectifs.",
+    "button": "Découvre mes projets",
+    "position": "Frontend Développeur"
+  },
+  "portfolio": {
+    "showDetails": "Afficher les détails",
+    "closeDetails": "Cacher les détails",
+    "months": [
+      "Jan",
+      "Fév",
+      "Mar",
+      "Avr",
+      "Mai",
+      "Jui",
+      "Jul",
+      "Aou",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Déc"
+    ],
+    "functionalities": "Fonctionnalités",
+    "portfolio2Descr": "Portfeuille Personnel - Responsive Design",
+    "ecommerce2Descr": "Site de e-commerce - Expérience client complètement moquée - Responsive Design",
+    "adventDescr": "Collection de 24 défis de codage - Responsive Design",
+    "socialDescr": "Social Network - Expérience client partiellement moquée - Responsive Design",
+    "portfolioDescr": "Portfeuille Personnel - Responsive Design",
+    "moviesDescr": "Site de Film en Streaming - Responsive Design",
+    "ecommerceDescr": "Site de e-commerce - Responsive Design",
+    "htmlLayoutDescr": "CV personnel en format HTML-email - Responsive Design",
+    "tooltipDescr": "Un tooltip plugin avec des conditions spécifiques et des tâches facultatives - Responsive Design",
+    "squareDescr": "Carré qu'il suit la souris avec caractéristiques supplémentaires",
+    "technologies": "Technologies"
+  },
+  "contacts": {
+    "header1": "Je suis ouvert à toute opportunité d'emploi!",
+    "header2": "N'hésite pas à me contacter."
+  },
+  "resume": {
+    "header": "Télécharge mon CV dans la langue de ton choix",
+    "download": "Télécharger"
+  }
+}

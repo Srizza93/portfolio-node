@@ -1,0 +1,53 @@
+{
+  "navigation": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "techs": "Techs",
+    "contacts": "Contatti",
+    "resume": "Cv"
+  },
+  "home": {
+    "greatings": "Ciao, il mio nome é",
+    "pitch": "Sono sempre stato appassionato della tecnologia e l'informatica, sin da bambino. Mi sono innamorato di queste discipline, le quali desidero orientarmi professionalmente. Il mio costante desiderio di crescita, insieme alle competenze acquisite nel corso delle mie esperienze in vari paesi europei, fanno di me oggi una persona qualificata e determinata nel raggiungere gli obiettivi.",
+    "button": "Scopri i miei progetti",
+    "position": "Frontend Developer"
+  },
+  "portfolio": {
+    "showDetails": "Scopri i dettagli",
+    "closeDetails": "Chiudi i dettagli",
+    "months": [
+      "Gen",
+      "Feb",
+      "Mar",
+      "Apr",
+      "Mag",
+      "Giu",
+      "Lug",
+      "Ago",
+      "Set",
+      "Ott",
+      "Nov",
+      "Dic"
+    ],
+    "functionalities": "Funzionalitá",
+    "portfolio2Descr": "Portfolio Personale - Responsive Design",
+    "ecommerce2Descr": "Sito di e-commerce - Esperienza cliente completamente simulata - Responsive Design",
+    "adventDescr": "Collzione di 24 sfide coding - Responsive Design",
+    "socialDescr": "Social Network - Esperienza cliente parzialmente simulata - Responsive Design",
+    "portfolioDescr": "Portfolio Personale - Responsive Design",
+    "moviesDescr": "Sito di Film in Streaming - Responsive Design",
+    "ecommerceDescr": "Sito di e-commerce - Responsive Design",
+    "htmlLayoutDescr": "CV personale in formato HTML-email - Responsive Design",
+    "tooltipDescr": "Un tooltip plugin con delle condizioni specifiche e compiti facoltativi - Responsive Design",
+    "squareDescr": "Quadrato che segue il mouse con caratteristiche extra",
+    "technologies": "Tecnologie"
+  },
+  "contacts": {
+    "header1": "Sono alla ricerca attiva di un lavoro!",
+    "header2": "Non esitare a contattarmi."
+  },
+  "resume": {
+    "header": "Scarica il mio CV nella lingua che preferisci",
+    "download": "Scarica"
+  }
+}
