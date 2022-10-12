@@ -24,12 +24,16 @@
         </li>
       </ul>
     </div>
+    <EmailForm />
   </div>
 </template>
 
 <script>
+import EmailForm from "../components/EmailForm.vue";
+
 export default {
   name: "Contacts",
+  components: { EmailForm },
   data() {
     return {
       contacts: [
